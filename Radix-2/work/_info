@@ -1,0 +1,80 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/20.1
+vcontrol
+Z0 !s110 1646672449
+!i10b 1
+!s100 2X5Zi>TE:X0:I7]7?KS9J2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Im67haJ1mWoP5]bJNF7b<S1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/G Shivanesh/Desktop/Booth_multi/Radix-2
+w1646571853
+8C:/Users/G Shivanesh/Desktop/Booth_multi/Radix-2/control.v
+FC:/Users/G Shivanesh/Desktop/Booth_multi/Radix-2/control.v
+!i122 260
+L0 1 95
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1646672449.000000
+!s107 C:/Users/G Shivanesh/Desktop/Booth_multi/Radix-2/control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/G Shivanesh/Desktop/Booth_multi/Radix-2/control.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vdata_path
+R0
+!i10b 1
+!s100 l[Of>TjKjR?iW8Qgl;Uh]3
+R1
+IHC=UCiZ]HhGRF`G;bJizJ3
+R2
+R3
+w1646571930
+8C:/Users/G Shivanesh/Desktop/Booth_multi/Radix-2/data_path.v
+FC:/Users/G Shivanesh/Desktop/Booth_multi/Radix-2/data_path.v
+!i122 261
+L0 1 38
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/G Shivanesh/Desktop/Booth_multi/Radix-2/data_path.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/G Shivanesh/Desktop/Booth_multi/Radix-2/data_path.v|
+!i113 1
+R6
+R7
+vtestbench
+R0
+!i10b 1
+!s100 c671fHRTjlHT8b9mD<R;]1
+R1
+I17mBjaLEfhkolHiol6LMz2
+R2
+R3
+w1646672441
+8C:/Users/G Shivanesh/Desktop/Booth_multi/Radix-2/testbench.v
+FC:/Users/G Shivanesh/Desktop/Booth_multi/Radix-2/testbench.v
+!i122 262
+L0 1 54
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/G Shivanesh/Desktop/Booth_multi/Radix-2/testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/G Shivanesh/Desktop/Booth_multi/Radix-2/testbench.v|
+!i113 1
+R6
+R7

@@ -31,8 +31,8 @@ module testbench (
     initial begin
         @(negedge clk) start = 1'b1;
         @(negedge clk) start = 1'b0;
-        dataM = -13;
-        dataQ = 10;
+        dataM = 3;
+        dataQ = 2;
         while (done != 1) begin
             #10;
         end
